@@ -13,6 +13,7 @@
 * [Eloquent JavaScript](https://eloquentjavascript.net/) A beginner-friendly resource from which even the experienced developer might learn a thing or two.
 * [Modular JavaScript Book Series](https://github.com/mjavascript) "An open effort to improve our collective understanding of writing robust, well-tested, and modular applications"
 * [Web-Skills](https://andreasbm.github.io/web-skills/) A visual overview of useful skills to learn as a web developer
+* [DevProjects: JavaScript projects](https://www.codementor.io/projects/javascript) A free community platform consists of curated projects to practice, from beginner level to advanced. 
 
 ### Magazines
 
